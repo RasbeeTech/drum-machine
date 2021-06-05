@@ -1,0 +1,30 @@
+#drum-machine{
+    margin: auto;
+    margin-top: 20vh;
+    width: 100vh;
+    height: 50vh;
+    background-color: rgb(109, 101, 101);
+    border: 10px outset rgba(255, 174, 0, 0.938);
+}
+#display {
+    margin: auto;
+    margin-top: 10px;
+    background-color: rgba(255, 174, 0, 0.938);
+    height: 40px;
+    width: 180px;
+    line-height: 40px;
+    border: 5px inset grey;
+    font-size: x-large;
+}
+.drum-pad {
+    background-color: rgba(255, 174, 0, 0.938);
+    width: 60px;
+    height: 60px;
+    font-size: x-large;
+    margin: 2px;
+    border: 5px outset grey;
+    border-radius: 15px;
+}
+#keys {
+    margin-top: 20px;
+}
